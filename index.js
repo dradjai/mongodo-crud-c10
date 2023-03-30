@@ -1,0 +1,20 @@
+import { client, fruitsCollection } from "./mongoConnect.js";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
